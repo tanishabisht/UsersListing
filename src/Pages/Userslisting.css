@@ -1,0 +1,26 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    padding: 50px;
+    margin-top: 25px;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+h1 {
+    margin-top: 200px;
+}
+
+button {
+    padding: 6px;
+    margin: 10px;
+}
+
+table tbody tr td:only-child {
+    all: unset;
+  }
