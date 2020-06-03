@@ -22,7 +22,7 @@ First there is the sign in page with has two buttons, one to direct it to the si
 1. [bootstrap 4](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
    - this is the original bootstrap 4 not specifically for react
 
-2. [react-bootstrap]
+2. [react-bootstrap](https://react-bootstrap.github.io/getting-started/introduction/)
    - it is a dependancy for react has similar features as to normal bootstrap 4
 
 3. [react-router-dom](https://reacttraining.com/react-router/web/guides/quick-start)
